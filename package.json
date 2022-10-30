@@ -1,0 +1,14 @@
+{
+  "name": "tweet-deleter",
+  "version": "1.0.0",
+  "description": "delete tweets older than n days",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leo Yockey",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
